@@ -4,3 +4,5 @@ JupyterLab script using Python to scrape the Washington Post's Fact Check databa
 URL: https://www.washingtonpost.com/graphics/politics/trump-claims-database/
 
 Using the scraped data, I created a visualization of his claims using Tableau.   
+
+Tableau Public visualization: https://public.tableau.com/profile/vinh.chau#!/vizhome/TrumpMisleadingFalseClaims/TrumpAlternateFacts
